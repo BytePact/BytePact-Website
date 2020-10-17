@@ -1,0 +1,14 @@
+enable : true
+heading : "THE PROOF IS IN THE PUDDING!"
+counter_item: 
+  - title: "Years of experience"
+    number: "10"
+
+  - title: "Git commits"
+    number: "800"
+
+  - title: "Code tests written"
+    number: "500"
+
+  - title: "Ideas in the running"
+    number: "100"

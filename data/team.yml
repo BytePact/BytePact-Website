@@ -1,0 +1,14 @@
+enable  : true
+title   : Our team
+members  :
+  - image       : images/team/alexander_2020.jpg
+    name        : ALEXANDER GIM-HO TANG
+    designation : Founder - Software Engineer
+    linkedIn    : https://www.linkedin.com/in/alexander-tang-a01935122/
+
+  - image       : images/team/zimcke_2020.jpg
+    name        : ZIMCKE VAN DE STAEY
+    designation : Founder - Software Engineer
+    linkedIn    : https://www.linkedin.com/in/zimcke-van-de-staey-41625474/
+
+  
