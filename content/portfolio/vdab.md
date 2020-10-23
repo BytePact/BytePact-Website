@@ -1,10 +1,11 @@
 ---
-title: "OSEN CLOCK"
-date: 2019-12-23T15:56:43+06:00
+title: "VIND EEN OPLEIDING"
+date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-two.jpg"
-category: ["PRODUCT DESIGN"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+image: "images/projects/project-vdab.jpg"
+category: ["FREELANCE PROJECT"]
+#project_images: ["images/projects/project-details-vdab.png"]
+banner_image: "images/projects/project-details-vdab.png"
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
@@ -26,3 +27,4 @@ Mystery answer. After entering this mode, the screen initially displays “ask n
 Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
 
 The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
+

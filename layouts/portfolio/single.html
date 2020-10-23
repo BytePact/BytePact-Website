@@ -1,6 +1,13 @@
 {{ define "main" }}
 
 <section class="site-project-single-section">
+  {{ if .Params.banner_image }}
+      <div class="site-project-single">
+        <div class="site-project-single-banner-image">
+          <img src="{{ .Params.banner_image | absURL}}" alt="project banner image">
+        </div>
+      </div>
+{{ end }}
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
