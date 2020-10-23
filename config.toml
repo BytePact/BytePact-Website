@@ -1,4 +1,4 @@
-baseURL       = "http://bytepact.onrender.com/"
+baseURL       = "https://bytepact.com/"
 languageCode  = "en-us"
 title         = "BytePact"
 theme         = "roxo"
