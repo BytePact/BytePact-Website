@@ -36,9 +36,9 @@ summarylength = 25
   description = "BytePact"
   author = "Alexander Tang & Zimcke Van de Staey"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "251238073"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "https://formspree.io/f/xwkwbbyv"
   
   # Navbar Action Button
   [params.navAction]
