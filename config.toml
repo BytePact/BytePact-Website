@@ -36,7 +36,7 @@ summarylength = 25
   description = "BytePact"
   author = "Alexander Tang & Zimcke Van de Staey"
   # Google Analitycs
-  googleAnalitycsID = "251238073"
+  googleAnalitycsID = "G-PJGQ02S98S"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/f/xwkwbbyv"
   
