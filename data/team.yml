@@ -4,11 +4,13 @@ members  :
   - image       : images/team/alexander_2020.jpg
     name        : ALEXANDER GIM-HO TANG
     designation : Founder - Software Engineer
+    bio         : Alexander is a senior software engineer who previously worked for Cegeka and Acerta before founding BytePact. During his studies he was a tutor for STEM courses. This inspired him to create Edutor, a platform to bring tutors and learners together. 
     linkedIn    : https://www.linkedin.com/in/alexander-tang-a01935122/
 
   - image       : images/team/zimcke_2020.jpg
     name        : ZIMCKE VAN DE STAEY
     designation : Founder - Software Engineer
+    bio         : Zimcke has a strong affinity with education and e-learning. She has co-created the Co-De learning platform about computational thinking and is currently working as a computer science educational researcher at UGent.  With BytePact she contirbutes to develop new educational tools.
     linkedIn    : https://www.linkedin.com/in/zimcke-van-de-staey-41625474/
 
   
