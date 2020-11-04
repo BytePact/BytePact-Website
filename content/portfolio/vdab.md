@@ -12,4 +12,6 @@ banner_image: "images/projects/project-details-vdab.png"
 
 In 2021 'Vind een opleiding' will get an upgrade and BytePact is contributing to that. In particular the matchmaking between users and recommended courses will be optimized. 
 
+*Image: screenshot taken from [Vind een opleiding](https://www.vdab.be/opleidingen/aanbod) on October 21, 2020*
+
 
